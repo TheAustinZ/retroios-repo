@@ -1,0 +1,41 @@
+Package: com.heaveniphone.appsync50plus
+Version: 2.3
+Section: AppSync
+Maintainer: Karen <karen@akemi.ai>
+Depends: firmware (<5.1.1)
+Architecture: iphoneos-arm
+Filename: ./debs/appsync_ios_5.deb
+Size: 5000
+MD5sum: 401DD1505943425385798575AEBB0EAA
+Description: This only supports iOS 5.0 - 5.1.1
+Name: AppSync for iOS 5
+Author: Karen <karen@akemi.ai>
+Depiction: https://retroios.austins.space/pages/appsync_ios_5.html
+
+Package: com.myrepospace.hamidthr.appsync
+Version: 2.3
+Section: AppSync
+Maintainer: Karen <karen@akemi.ai>
+Depends: firmware (<6.1.6)
+Architecture: iphoneos-arm
+Filename: ./debs/appsync_ios_6.deb
+Size: 5000
+MD5sum: 3948E9FAE8AF09C13E3B0026F17AA664
+Description: This only supports iOS 6.0 - 6.1.6
+Name: AppSync for iOS 6
+Author: Karen <karen@akemi.ai>
+Depiction: https://retroios.austins.space/pages/appsync_ios_6.html
+
+Package: com.teiron.ppsync
+Version: 1.2
+Section: AppSync
+Maintainer: Karen <karen@akemi.ai>
+Depends: firmware (<7.1.2)
+Architecture: iphoneos-arm
+Filename: ./debs/appsync_ios_7.deb
+Size: 18000
+MD5sum: 7EC3F95B622431484E0040CFB009DF9A
+Description: This only supports iOS 7.0 - 7.1.2
+Name: AppSync for iOS 7
+Author: Karen <karen@akemi.ai>
+Depiction: https://retroios.austins.space/pages/appsync_ios_7.html
